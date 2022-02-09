@@ -1,4 +1,4 @@
-# First-Program
+# Matrix Multiplication
                        Code for Matrix Multiplication Using C language.
 
   What is the usefulness of matrices? 
